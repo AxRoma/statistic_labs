@@ -1,0 +1,16 @@
+numpy
+scipy
+sympy
+matplotlib
+seaborn
+pandas
+scikit-learn
+jupyterlab
+ipykernel
+tqdm
+networkx
+pyyaml
+ipython
+statsmodels
+openpyxl
+sys
