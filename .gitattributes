@@ -1,0 +1,5 @@
+# Отключаем diff и предпросмотр Excel
+/data/**/*.xlsx   binary -diff
+/data/**/*.xls    binary -diff
+/data/**/*.sav    binary -diff
+/data/**/*.parquet binary -diff
