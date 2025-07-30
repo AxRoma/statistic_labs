@@ -1,0 +1,14 @@
+# игнорируем виртуальное окружение
+myenv/
+
+# временные папки Jupyter
+.ipynb_checkpoints/
+
+# кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# временные файлы macOS
+.DS_Store
